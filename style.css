@@ -156,6 +156,11 @@ h1, p, span {
     margin-bottom: 10px;
 }
 
+#pie-chart {
+    font-size: 1.5rem;
+    margin-left: 3.5rem;
+}
+
 
 .about-section p {
     font-size: 1.2rem;
@@ -182,7 +187,7 @@ h1, p, span {
 }
 
 .image-container p {
-    font-size: 0.9rem; 
+    font-size: 1.2rem; 
     color: black;
     text-align: center;
     margin: 0px 30%;
